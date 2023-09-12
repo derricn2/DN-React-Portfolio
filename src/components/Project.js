@@ -8,11 +8,11 @@ import timedjsquiz from '../assets/DN-s-Timed-JS-Coding-Quiz.png';
 
 const Project = () => {
   return (
-    <div name="projects" className="w-full md:h-screen text-white bg-[#257B9C]">
+    <div name="portfolio" className="w-full md:h-screen text-white bg-[#257B9C]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 text-white border-[#FF914D]">
-            Work
+            Portfolio
           </p>
           <p className="py-4">Explore my latest projects</p>
         </div>
