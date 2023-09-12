@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DN-React-Portfolio/static/css/main.c36c8932.css",
+    "main.js": "/DN-React-Portfolio/static/js/main.739d22ec.js",
+    "static/media/DCJL-Project-1.png": "/DN-React-Portfolio/static/media/DCJL-Project-1.078c89815756bf9d501f.png",
+    "static/media/Note-Taker.png": "/DN-React-Portfolio/static/media/Note-Taker.c30625ac827665d7a828.png",
+    "static/media/J-A-T-E.png": "/DN-React-Portfolio/static/media/J-A-T-E.9be7934eab3d1818fb5c.png",
+    "static/media/WeatherGuesser.png": "/DN-React-Portfolio/static/media/WeatherGuesser.f1dd84db1b14d6709754.png",
+    "static/media/foodiefaves.png": "/DN-React-Portfolio/static/media/foodiefaves.e012e47ec336f51900bd.png",
+    "static/media/DN-s-Timed-JS-Coding-Quiz.png": "/DN-React-Portfolio/static/media/DN-s-Timed-JS-Coding-Quiz.08cf59e386e90d169dcc.png",
+    "static/media/react.png": "/DN-React-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/DN-React-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/DN-React-Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/html.png": "/DN-React-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/DN-React-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/DNlogo.png": "/DN-React-Portfolio/static/media/DNlogo.0dc8dc674fdf1908ff4d.png",
+    "static/media/javascript.png": "/DN-React-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/DN-React-Portfolio/index.html",
+    "main.c36c8932.css.map": "/DN-React-Portfolio/static/css/main.c36c8932.css.map",
+    "main.739d22ec.js.map": "/DN-React-Portfolio/static/js/main.739d22ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c36c8932.css",
+    "static/js/main.739d22ec.js"
+  ]
+}
